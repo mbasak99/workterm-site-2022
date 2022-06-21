@@ -12,6 +12,7 @@ const AboutSite: NextPage = () => {
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
+
       <main>About Site</main>
     </div>
   );

@@ -9,6 +9,7 @@ const AboutMe: NextPage = () => {
         <meta name="description" content="Somethings about me." />
         <link rel="icon" href="/favicon.ico" />
       </Head>
+
       <main>AboutMe</main>
     </div>
   );
